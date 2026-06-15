@@ -62,8 +62,8 @@ The system follows a multi-stage processing pipeline:
    - Histogram and feature visualization
    - Basic image editing tools (before/after comparison)
 
----
 
+---
 ##  Key Features
 
 ###  Image Understanding
@@ -88,6 +88,13 @@ The system follows a multi-stage processing pipeline:
 - Exposure, contrast, saturation adjustment
 - Crop, rotate, sharpen, denoise
 - Before/after comparison view
+
+---
+
+## 🖼️ Demo Gallery
+🌟 AI Image Understanding
+
+
 
 ---
 
